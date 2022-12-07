@@ -33,7 +33,6 @@ module.exports = {
      2, 
      "single", 
     ],
-    "prettier/prettier": ["error", { "singleQuote": true }],
     "semi": [
       "error",
       "never"
