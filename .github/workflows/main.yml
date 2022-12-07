@@ -18,4 +18,4 @@ jobs:
           date
       - name: print ls
         run: |
-          ls
+          ls -l
