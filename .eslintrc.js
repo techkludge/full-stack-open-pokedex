@@ -1,3 +1,7 @@
+"env": {
+        "node": true,
+        "commonjs": true
+       },
 module.exports = {
   "env": {
     "browser": true,
