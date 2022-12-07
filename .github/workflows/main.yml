@@ -19,3 +19,6 @@ jobs:
       - name: print ls
         run: |
           ls -l
+      - name: print OS
+        run: |
+          uname -a
