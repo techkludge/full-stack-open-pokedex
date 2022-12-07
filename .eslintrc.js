@@ -35,10 +35,6 @@ module.exports = {
      "single", 
      { "avoidEscape": true }
     ],
-    "quotes": [
-      "error",
-      "single"
-    ],
     "semi": [
       "error",
       "never"
